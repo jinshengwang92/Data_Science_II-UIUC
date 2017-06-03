@@ -1,5 +1,4 @@
-# INFO 490: Advanced Data Science offered by those guys below @ UIUC Spring 2017
-
+# INFO 490: Advanced Data Science offered @ UIUC Spring 2017
 ***Professor:*** Dr. Robert J. Brunner
 
 
